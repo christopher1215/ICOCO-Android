@@ -1,5 +1,6 @@
 # ICOCO-Android
-ICOCO provides crypto currency ICO list and news.
+* ICOCO provides crypto currency ICO list and news.
+* [Google Play](https://play.google.com/store/apps/details?id=com.prangbi.android.icoco)
 
 # Requirements
 * Android SDK 26+
